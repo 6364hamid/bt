@@ -32,7 +32,7 @@ http://download.bt.cn/install/update/LinuxPanel-4.8.0.zip
 http://download.bt.cn/install/update/LinuxPanel-4.8.1.zip
 http://download.bt.cn/install/update/LinuxPanel-4.8.2.zip
 http://download.bt.cn/install/update/LinuxPanel-4.8.3.zip
-http://download.bt.cn/install/update/LinuxPanel-4.9.0.zip
+http://download.bt.cn/install/update/LinuxPanel-4.91.0.zip
 http://download.bt.cn/install/update/LinuxPanel-4.9.1.zip
 http://download.bt.cn/install/update/LinuxPanel-5.0.0.zip
 http://download.bt.cn/install/update/LinuxPanel-5.0.1.zip
